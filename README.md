@@ -1,6 +1,9 @@
+# Link To Missing Project Files/Folders
+- The Triggerblast Mania Drive Folder (Link: https://drive.google.com/drive/folders/1rxZCMK0wq2FPBEpHS9-jztxR8m_aM3GZ?usp=sharing) contains the remaining project files (VR Test APK file along with the Temp, Library and Assets project folders as ZIP files)
+
 # Triggerblast Mania Game
 
-- Triggerblast Mania is a game made in Unity using the VR core, and it’s a simple target shooter game
+- Triggerblast Mania is a game made in Unity using the VR core, and it’s a simple target shooter game (Worked on from March-April 2025)
 - Game includes 5 levels, where each level features 3 rooms for the player to complete
 - Each level is set to a different difficulty (Starting from Easy and going to Extreme), and the difficulties incorporate different visual effects
    - Easy is a standard level with no effects
